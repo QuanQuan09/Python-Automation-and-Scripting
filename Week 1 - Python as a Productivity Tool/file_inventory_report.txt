@@ -1,0 +1,28 @@
+File Inventory Report
+Adding Files to Inventory
+.ipynb_checkpoints
+Automation_Practice
+Daily_Reports
+Python_Practice
+Reports
+W1L1.ipynb
+W1L2 - Working with Files.ipynb
+W1L3 - Working with Folders.ipynb
+W1L4 - Automating Repetitive Tasks.ipynb
+W1L5 - Mini Automation Project.ipynb
+automation_notes.txt
+daily_inventory_report.txt
+daily_report.txt
+file_inventory_report.txt
+folder_inventory.txt
+folder_report.txt
+server_log.txt
+text_file_inventory.txt
+text_files_report.txt
+
+Find file
+Organize file
+TXT Files: 9
+CSV Files: 0
+PDF Files: 0
+Other Files: 5

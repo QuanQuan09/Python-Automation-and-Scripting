@@ -1,0 +1,8 @@
+automation_notes.txt
+daily_inventory_report.txt
+daily_report.txt
+folder_inventory.txt
+folder_report.txt
+server_log.txt
+text_file_inventory.txt
+text_files_report.txt

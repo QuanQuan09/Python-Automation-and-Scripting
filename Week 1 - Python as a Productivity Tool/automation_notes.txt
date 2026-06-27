@@ -1,0 +1,4 @@
+Python Automation Bootcamp
+Lesson 2
+Learning File Handling
+Tomorrow I will learn folders

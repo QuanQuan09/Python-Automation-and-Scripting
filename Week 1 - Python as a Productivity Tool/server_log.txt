@@ -1,0 +1,4 @@
+WEB01 - Online
+WEB02 - Online
+DB01 - Offline
+APP01 - Online

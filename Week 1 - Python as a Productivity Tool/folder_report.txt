@@ -1,0 +1,13 @@
+W1L2 - Working with Files.ipynb
+W1L1.ipynb
+server_log.txt
+folder_report.txt
+Automation_Practice
+Python_Practice
+automation_notes.txt
+W1L4 - Automating Repetitive Tasks.ipynb
+.ipynb_checkpoints
+Daily_Reports
+daily_report.txt
+W1L3 - Working with Folders.ipynb
+Reports
