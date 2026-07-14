@@ -1,0 +1,8 @@
+========== Daily Log Summary ==========
+Adding Files to Inventory
+Processed_001.csv
+Processed_002.csv
+Processed_003.csv
+Processed_1.csv
+README.txt
+notes.md

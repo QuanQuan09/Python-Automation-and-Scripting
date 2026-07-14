@@ -1,0 +1,5 @@
+Server Report
+---------------
+WEB01 - Up
+WEB02 - Down
+DB01 - Up

@@ -1,0 +1,7 @@
+========== Daily Log Summary ==========
+
+Total CSV Files Processed: 3
+Total Servers: 6
+Down Servers: 2
+High CPU Servers (>80): 2
+Average CPU Usage: 60.0

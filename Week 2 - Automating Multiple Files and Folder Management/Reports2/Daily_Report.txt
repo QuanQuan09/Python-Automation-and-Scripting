@@ -1,0 +1,5 @@
+Daily Server Report
+-------------------------
+WEB02 - Down
+APP03 - Up
+DB04 - Bouncing
